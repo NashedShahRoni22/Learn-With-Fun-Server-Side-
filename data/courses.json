@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "img":"https://i.ibb.co/gtJnq8V/html.png",
+        "name":"HTML",
+        "description":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document."
+    },
+    {
+        "id": "2",
+        "img":"https://i.ibb.co/xq6TLSN/css.jpg",
+        "name":"CSS",
+        "description":"CSS (Cascading Style Sheet) describes the HTML elements which are displayed on screen, paper, or in other media. It saves a lot of time. It controls the layout of multiple web pages at one time. It sets the font-size, font-family, color, background color on the page."
+    },
+    {
+        "id": "3",
+        "img":"https://i.ibb.co/PzjP2Gs/js.png",
+        "name":"JavaScript",
+        "description":"JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user."
+    }
+]
