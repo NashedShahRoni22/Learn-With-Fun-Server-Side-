@@ -16,5 +16,23 @@
         "img":"https://i.ibb.co/PzjP2Gs/js.png",
         "name":"JavaScript",
         "description":"JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user."
+    },
+    {
+        "id": "4",
+        "img":"https://i.ibb.co/DCGGRw5/react.png",
+        "name":"React",
+        "description":"The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript."
+    },
+    {
+        "id": "5",
+        "img":"https://i.ibb.co/Wt5Xjsv/express-js.jpg",
+        "name":"Express JS",
+        "description":"Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes."
+    },
+    {
+        "id": "6",
+        "img":"https://i.ibb.co/WWpFvmW/mongodb.jpg",
+        "name":"Mongo DB",
+        "description":"Get your ideas to market faster with a developer data platform built on the leading modern database. Support transactional, search, analytics, and mobile use cases while using a common query interface and the data model developers love."
     }
 ]
