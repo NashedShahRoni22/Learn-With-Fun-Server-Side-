@@ -12,6 +12,7 @@ const courses = require('./data/courses.json');
 app.get('/', (req, res) => {
   res.send('Learn with Fun Api Running!!')
 })
+
 app.get('/courses', (req, res) => {
   res.send(courses);
 })
@@ -21,6 +22,7 @@ app.get('/courses/:id', (req, res) => {
   console.log(selectedCourse);
   res.send(selectedCourse);
 })
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
