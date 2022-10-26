@@ -23,6 +23,12 @@ app.get('/courses/:id', (req, res) => {
   res.send(selectedCourse);
 })
 
+app.get('/checkout/:id', (req, res) => {
+  const selectedCourse =  courses.find(crs => crs.id === req.params.id);
+  console.log(selectedCourse);
+  res.send(selectedCourse);
+})
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
